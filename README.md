@@ -1,2 +1,2 @@
 # alexknoll.github.io
-I write the Docs. Technically. 
+I Write the Docs. Technically. 
