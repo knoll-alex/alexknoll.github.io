@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![Profile](/images/me.jpg# profile bordered)
-
 ## Hello! Please visit:
 
 ### [GSOC 2019](/pages/gsoc-2019.md)
@@ -13,5 +11,4 @@ layout: default
 ### [My GitHub Profile](https://github.com/knoll-alex)
 
 
-
-
+![Profile](/images/me.jpg# profile bordered)
