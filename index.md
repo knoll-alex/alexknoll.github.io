@@ -4,10 +4,14 @@ layout: default
 
 ![Profile](/images/me.jpg# profile bordered)
 
-## Links
+## Hello! Please visit:
 
-### [My GitHub Profile](https://github.com/knoll-alex)
+### [GSOC 2019](/pages/gsoc-2019.md)
 
 ### [My LinkedIn](www.linkedin.com/in/knollalex/)
 
-### [GSOC 2019](/pages/gsoc-2019.md)
+### [My GitHub Profile](https://github.com/knoll-alex)
+
+
+
+
