@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Me](/images/me2 (2).jpg)
+![Profile](/images/me.jpg# profile bordered)
 
 ## Links
 
