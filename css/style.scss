@@ -16,3 +16,13 @@ img[src~="profile"] {
 img[src~="bordered"] {
    border: 1px solid black;
 }
+
+img[src*="#gsoc"] {
+   width: 250px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+   margin-right: 50px;
+   border: 1px solid black;
+   float: left;
+}
