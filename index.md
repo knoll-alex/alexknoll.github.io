@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Profile](/assets/profile.png# profile bordered)
+![Profile](/images/me2 (2).jpg.png# profile bordered)
 
 ## Links
 
