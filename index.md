@@ -44,7 +44,7 @@ My technical writing specialty lies in turning complex ideas into accessible pla
 
 ### 1. Help Text Rewrite
 
-In LORIS, every module and some additional pages have their own help content displayed as a beacon on the page. Users click a question mark to reveal Help text, which includes an overview and context of the page, along with instructions on how to use the features of that page.
+In LORIS, every module and some additional pages have help content, hidden from view but easily accessed. Users click a question mark from a navigation menu to reveal Help text, which includes an overview and context of the page, along with instructions on how to use the features of that page.
 
 There were around 40 pieces of help text to work on. Some of these were new modules, so I created the text from scratch. For the most part, however, I rewrote existing help text to make it more accessible and user-friendly.
 
