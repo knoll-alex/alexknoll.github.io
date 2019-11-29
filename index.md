@@ -88,9 +88,9 @@ I also created a simple style guide for the html presentations, which exists as 
 
 I have a couple ad-hoc contributions worth mentioning.
 
-##### The LORIS-dev Archives
+##### The LORIS-dev Archives Audit
 
-My first task upon joining the LORIS team was to go through ["the LORIS mail"](https://mailman.bic.mni.mcgill.ca/pipermail/loris-dev/) and categorize emails based on type. The goal was to provide the team with some data surrounding development questions and issues, so they can prioritize updates and support.
+My first task upon joining the LORIS team was to go through ["the LORIS mail"](https://mailman.bic.mni.mcgill.ca/pipermail/loris-dev/) and categorize emails based on type. The goal with this starting task was to get a sense of where the current LORIS documentation was failing; where the critical gaps were. This audit was also intended to show me what kind of questions the team gets, and why. It was a great way to introduce me to the LORIS audience, which always provides a critical knowledge base for creating documentation.
 
 ##### Module Specifications
 
