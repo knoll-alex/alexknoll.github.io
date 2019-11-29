@@ -58,7 +58,7 @@ Check out the new LORIS User Guide [here](https://docs.google.com/document/d/10z
 
 ### 3. Internal Onboarding Document
 
-Joining the LORIS team was a bit overwhelming due to the volume of information I needed to learn so quickly! They have a thorough onboarding guide for most people that join the team—most of them being developers or other technical roles. However, my non-technical background required something less... technica. So, I decided to compile existing resources into one helpful document for new non-technical members that join LORIS in the future. It's called the LORIS Brief.
+Joining the LORIS team was a bit overwhelming due to the volume of information I needed to learn so quickly! They have a thorough onboarding guide for most people that join the team—most of them being developers or other technical roles. However, my non-technical background required something less... technical. So, I decided to compile existing resources into one helpful document for new non-technical members that join LORIS in the future. It's called the LORIS Brief.
 
 Find the LORIS Brief [here](https://docs.google.com/document/d/1MUDxILP5uU95wsycSWtLqTE4c5pI2oxXbE5Aoshgs-w/edit?usp=sharing)
 
@@ -72,21 +72,21 @@ Find the guide [here](https://docs.google.com/document/d/1jYvOCl-0fnQ1tjhTsJFT9R
 
 The LORIS team hosts a suite of informative presentations built in Reveal.js. These were designed to be presented in-person, but the team wanted them to live online, as high-level guides to LORIS, for anyone to access and learn from. I contextualized, re-organized, and re-formatted the content to be more user-friendly for this purpose. I revamped five of these presentations in total (in the GitHub Pages link below, I worked on all except for *Big Brain* and *BrainBrowser*.
 
-You can find my issued PRs [here](https://github.com/knoll-alex/samirdas.github.io/branches) and the end products [here](http://samirdas.github.io/#/)
+You can find my branches [here](https://github.com/knoll-alex/samirdas.github.io/branches) and the end products [here](http://samirdas.github.io/#/)
 
 ### 6. Style Guides
 
 I created a couple style guides for the team's future reference based on the documentation changes I made. One was a detailed guide for creating and updating the user-facing help text in LORIS. This guide includes guidelines on grammar and tone, markdown styles accepted in LORIS, and how to name/upload files into the LORIS repository. 
 
-The Help Text Style Guide is [here](https://docs.google.com/document/d/1bbEf9nMBzd-8W3qHs47jAu3JDgvUrL_45F7-Y7A-xPY/edit?usp=sharing)
+My PR for the Help Text Style Guide is [here](https://github.com/aces/Loris/pull/5805) - it hasn't been merged at the time of making this report.
 
-I also created a simple style guide for the html presentations, which exists as a README.md file in the presentation repo.
+I also created a simple style guide for the online Reveal presentations, which exists as a README.md file in the presentation repo.
 
-Check that one out [here](https://github.com/samirdas/samirdas.github.io)
+Check that one out [here](https://github.com/samirdas/samirdas.github.io/pull/14) - also an open PR
 
 ### 7. And then...
 
-I made a couple ad-hoc contributions worth mentioning.
+I made other ad-hoc contributions worth mentioning.
 
 ##### The LORIS-dev Archives Audit
 
