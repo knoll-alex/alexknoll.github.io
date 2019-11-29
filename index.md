@@ -54,43 +54,43 @@ See all associated PRs in [this GitHub issue](https://github.com/aces/Loris/issu
 
 I created a comprehensive 40+ page document that describes a suggested workflow for using LORIS, along with detailed explanations on its every feature and function and associated screenshots. This can be helpful to users that need more context to supplement the in-site help text. In addition, it will be sent to potential research leads that want to learn more about LORIS' capabilities and interface.
 
-[Take a look](https://docs.google.com/document/d/10zhryhdG0NX1ov65AypfxgcGXTp_FwDaPI1i6tkqkDg/edit?usp=sharing)
+Check out the new LORIS User Guide [here](https://docs.google.com/document/d/10zhryhdG0NX1ov65AypfxgcGXTp_FwDaPI1i6tkqkDg/edit?usp=sharing)
 
 ### 3. Internal Onboarding Document
 
 Joining the LORIS team was a bit overwhelming due to the volume of information I needed to learn so quickly! They have a thorough onboarding guide for most people that join the team—most of them being developers or other technical roles. However, my non-technical background required something less... technica. So, I decided to compile existing resources into one helpful document for new non-technical members that join LORIS in the future. It's called the LORIS Brief.
 
-[Take a look](https://docs.google.com/document/d/1MUDxILP5uU95wsycSWtLqTE4c5pI2oxXbE5Aoshgs-w/edit?usp=sharing)
+Find the LORIS Brief [here](https://docs.google.com/document/d/1MUDxILP5uU95wsycSWtLqTE4c5pI2oxXbE5Aoshgs-w/edit?usp=sharing)
 
 ### 4. Github Desktop 101
 
 Upon joining the LORIS project, my Github exposure was minimal. I had used github.com to upload files, but that was pretty much it. My biggest challenge during this experience was learning how to use Github desktop (I couldn't use github.com due to the complex branching system used by the LORIS repo). With help from my mentors, along with endless forum-foraging, I put together a step-by-step guide on using Github Desktop with LORIS.
 
-[Take a look](https://docs.google.com/document/d/1jYvOCl-0fnQ1tjhTsJFT9R3MXE4d0GjmIuPtT3A7wfk/edit?usp=sharing)
+Find the guide [here](https://docs.google.com/document/d/1jYvOCl-0fnQ1tjhTsJFT9R3MXE4d0GjmIuPtT3A7wfk/edit?usp=sharing)
 
 ### 5. Updated LORIS Presentations
 
-The LORIS team hosts a suite of informative presentations built in Reveal.js. These were designed to be presented in-person, but the team wanted them to live online, as high-level guides to LORIS, for anyone to access and learn from. I contextualized, re-organized, and re-formatted the content to be more user-friendly for this purpose. I revamped five of these presentations in total (in the link below, I worked on all except for *Big Brain* and *BrainBrowser*.
+The LORIS team hosts a suite of informative presentations built in Reveal.js. These were designed to be presented in-person, but the team wanted them to live online, as high-level guides to LORIS, for anyone to access and learn from. I contextualized, re-organized, and re-formatted the content to be more user-friendly for this purpose. I revamped five of these presentations in total (in the GitHub Pages link below, I worked on all except for *Big Brain* and *BrainBrowser*.
 
-You can find these presentations [here](http://samirdas.github.io/#/)
+You can find my issued PRs [here](https://github.com/knoll-alex/samirdas.github.io/branches) and the end products [here](http://samirdas.github.io/#/)
 
 ### 6. Style Guides
 
 I created a couple style guides for the team's future reference based on the documentation changes I made. One was a detailed guide for creating and updating the user-facing help text in LORIS. This guide includes guidelines on grammar and tone, markdown styles accepted in LORIS, and how to name/upload files into the LORIS repository. 
 
-[Take a look](https://docs.google.com/document/d/1bbEf9nMBzd-8W3qHs47jAu3JDgvUrL_45F7-Y7A-xPY/edit?usp=sharing)
+The Help Text Style Guide is [here](https://docs.google.com/document/d/1bbEf9nMBzd-8W3qHs47jAu3JDgvUrL_45F7-Y7A-xPY/edit?usp=sharing)
 
 I also created a simple style guide for the html presentations, which exists as a README.md file in the presentation repo.
 
-[Take a look](https://github.com/samirdas/samirdas.github.io)
+Check that one out [here](https://github.com/samirdas/samirdas.github.io)
 
 ### 7. And then...
 
-I have a couple ad-hoc contributions worth mentioning.
+I made a couple ad-hoc contributions worth mentioning.
 
 ##### The LORIS-dev Archives Audit
 
-My first task upon joining the LORIS team was to go through ["the LORIS mail"](https://mailman.bic.mni.mcgill.ca/pipermail/loris-dev/) and categorize emails based on type. The goal with this starting task was to get a sense of where the current LORIS documentation was failing; where the critical gaps were. This audit was also intended to show me what kind of questions the team gets, and why. It was a great way to introduce me to the LORIS audience, which always provides a critical knowledge base for creating documentation.
+My first task upon joining the LORIS team was to go through ["the LORIS mail"](https://mailman.bic.mni.mcgill.ca/pipermail/loris-dev/) and categorize emails based on type. The goal with this was for me to get a sense of where the current LORIS documentation was failing; where the critical gaps were. The audit was also intended to show me what kind of questions the team gets, and why. It was a great way to introduce me to the LORIS audience, which always provides a critical starting point for creating user-facing documentation.
 
 ##### Module Specifications
 
