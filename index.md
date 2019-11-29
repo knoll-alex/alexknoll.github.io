@@ -34,7 +34,7 @@ My technical writing specialty lies in turning complex ideas into accessible pla
 
 (Detailed descriptions to follow)
 
-1. Total rewrite of all user-facing help text in LORIS
+1. Total rewrite of all user-facing help text in LORIS (~50 PRs issued, merged, and closed)
 2. A comprehensive user guide for navigating LORIS
 3. An internal onboarding document for new LORIS members
 4. A Github Desktop guide for beginners
