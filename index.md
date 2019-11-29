@@ -48,7 +48,7 @@ In LORIS, every module and some additional pages have their own help content dis
 
 There were around 40 pieces of help text to work on. Some of these were new modules, so I created the text from scratch. For the most part, however, I rewrote existing help text to make it more accessible and user-friendly.
 
-This work is stored in [this GitHub issue](https://github.com/aces/Loris/issues/5576) - see all associated PRs.
+See all associated PRs in [this GitHub issue](https://github.com/aces/Loris/issues/5576)
 
 ### 2. LORIS User Guide
 
