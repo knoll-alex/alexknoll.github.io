@@ -100,6 +100,6 @@ In the LORIS codebase, each module has a README so developers know its purpose, 
 
 I noticed a bug in the same week as a new release - tada! [Check it out here.](https://github.com/aces/Loris/issues/5676)
 
-### THANK YOU TO GOOGLE AND LORIS FOR THIS VALUABLE GSOD EXPERIENCE! 
+### THANK YOU TO GOOGLE AND LORIS FOR THIS VALUABLE GSOD EXPERIENCE! I'M STILL SMILING! 
 
 ![Profile](/images/me.jpg# profile bordered)
