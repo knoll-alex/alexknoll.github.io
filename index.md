@@ -94,7 +94,7 @@ My first task upon joining the LORIS team was to go through ["the LORIS mail"](h
 
 ##### Module Specifications
 
-In the LORIS codebase, each module has a README so developers know its purpose, how it functions, its configuration, and more. Most of these READMEs were complete, except for a few. Through internal research and exploration of the platform, I created a README file for modules that didn't have it.
+In the LORIS codebase, each module has a README so developers know its purpose, how it functions, its configuration, and more. Most of these READMEs were complete, except for a few. Through internal SME research and exploration of the platform, I created a README file for modules that didn't have it.
 
 ##### Flagged a Release-Critical Bug
 
