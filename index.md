@@ -6,7 +6,7 @@ layout: default
 
 Welcome to my project summary page for Google Season of Docs. This was an exciting experience that came along with many firsts:
 
-* my first time contributing to open-source software (see https://github.com/aces/Loris)
+* my first time contributing to open-source software—see [https://github.com/aces/Loris](https://github.com/aces/Loris)
 * my first time using Github desktop
 * my first time revisiting my undergraduate science degree since... udergrad
 * my first time working in an academic research setting
