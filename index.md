@@ -20,7 +20,7 @@ For GSoD, the details of my contributions are as follows!
 [INCF:](https://www.incf.org/) International Neuroinformatics Coordinating Facility
 
 ## Project Title
-Simplifying LORIS how-to guides, tutorials, and workflow documentation
+Simplifying LORIS
 
 ## What is LORIS?
 
